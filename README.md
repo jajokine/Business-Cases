@@ -1,2 +1,8 @@
 # Business-Cases
-Exploring various business cases by using a wide range of statistical methods and machine learning techniques
+Exploring various business cases by using a wide range of statistical methods and machine learning techniques to solve each problem
+
+I will explore different kinds of business cases with the help of various statistical tools and machine learning techniques in order to analyze the data by telling a visually appealing story that will help to explain the meaning behind the results for each business case.
+
+The first case involves A/B testing which consists of a randomized experiment with two variants, A and B, in order to determine which of the two variants is more effective. For a business, this sort of testing gives valuable information when something new is being implemented and we want to know whether this implementation is worthwhile or we should stick to the old version or perhaps try something else. This could be for example when we try to understand user engagement and satisfaction of online features such as a new feature or product. This sort of analysis allows companies to better understand growth, increase revenue, and optimize customer satisfaction.
+
+The second case deals with customer churn prediction. The churn rate is a critical metric for customer satisfaction and for measuring growth. It tells you how many existing customers are leaving your business, so by managing to lower the rate, we can have an impact on the business revenues and growth potential. Predicting the customer churn is especially important for Software as a Service (SaaS) business models that have subscription- and membership-based customers that use the services of a company frequently, but in the sector there are other similar companies that offer similar services so predicting the customer satisfaction through the customer churn becomes a critical factor.
