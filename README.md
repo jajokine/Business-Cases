@@ -1,7 +1,5 @@
 # Business-Cases
-Exploring various business cases by using a wide range of statistical methods and machine learning techniques to solve each problem
-
-I will explore different kinds of business cases with the help of various statistical tools and machine learning techniques in order to analyze data from the businesses by telling a visually appealing story that will help to explain the meaning behind the results for each business case.
+Exploring various business cases by using a wide range of statistical methods, visualization and machine learning techniques to analyze and solve each problem
 
 The first case involves A/B testing which consists of a randomized and controlled experiment with two variants, A and B, that allow to form a causal relationship with high probability in order to determine which of the two variants is more effective. For a business, this sort of testing gives valuable information when something new is being implemented and we want to know whether this implementation is worthwhile or we should stick to the old version or perhaps try something else. This could be, for example, when we try to understand user engagement and user satisfaction of online features such as a new feature or product. This analysis that utilizes statistical methods of hypothese testing allows companies to better understand growth, increase revenue, and optimize customer satisfaction. They are therefore an indispensable tool for many large companies, but also for smaller companies and startups by combining with Agile software development or through Minimum Viable Products (MVPs).
 
